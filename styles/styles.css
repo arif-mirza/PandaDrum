@@ -1082,7 +1082,7 @@ button {
   }
 
   .announce-bar__text {
-    font-size: 8px;
+    font-size: 9px;
     letter-spacing: 0;
     white-space: nowrap;
   }
@@ -1092,17 +1092,17 @@ button {
   }
 
   .timer__unit {
-    min-width: 27px;
+    min-width: 30px;
     padding: 2px 3px;
     border-radius: 3px;
   }
 
   .timer__unit strong {
-    font-size: 10px;
+    font-size: 11px;
   }
 
   .timer__unit span {
-    font-size: 5px;
+    font-size: 6px;
   }
 
   .timer__colon {
@@ -1111,7 +1111,7 @@ button {
 
   .sale-bar {
     padding: 4px 8px;
-    font-size: 8px;
+    font-size: 9px;
   }
 
   .article-header {
@@ -1137,12 +1137,12 @@ button {
 
   .byline strong,
   .byline span {
-    font-size: 8px;
+    font-size: 9px;
     line-height: 1.25;
   }
 
   .intro {
-    font-size: 14px;
+    font-size: 15px;
     line-height: 1.35;
     margin-bottom: 14px;
   }
@@ -1188,12 +1188,12 @@ button {
 
   .reason__number {
     flex: 0 0 auto;
-    font-size: 34px;
+    font-size: 36px;
     margin: 0;
   }
 
   .reason__title {
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1.08;
   }
 
@@ -1208,7 +1208,7 @@ button {
 
   .reason__text {
     margin: 0 0 11px;
-    font-size: 12px;
+    font-size: 13px;
     line-height: 1.4;
     word-spacing: normal;
   }
@@ -1229,7 +1229,7 @@ button {
   }
 
   .reason__tag-label {
-    font-size: 10px;
+    font-size: 11px;
     line-height: 1.2;
   }
 
@@ -1260,20 +1260,20 @@ button {
 
   .offer h2,
   .offer h2[style] {
-    font-size: 22px !important;
+    font-size: 24px !important;
     line-height: 1.15;
     margin-bottom: 7px;
   }
 
   .offer p {
-    font-size: 12px;
+    font-size: 13px;
     line-height: 1.35;
     margin-bottom: 12px;
   }
 
   .cta-btn {
     max-width: 250px;
-    font-size: 13px;
+    font-size: 14px;
     padding-left: 19px;
     gap: 10px;
   }
@@ -1312,11 +1312,11 @@ button {
   }
 
   .trust-row__item strong {
-    font-size: 8px;
+    font-size: 9px;
   }
 
   .trust-row__item span {
-    font-size: 6px;
+    font-size: 7px;
     line-height: 1.1;
   }
 
@@ -1336,17 +1336,17 @@ button {
 
   .card-gift .img-sec p {
     padding: 0 3px 4px;
-    font-size: 8px;
+    font-size: 10px;
   }
 
   .card-gift .price {
     margin-top: 4px;
-    font-size: 10px;
+    font-size: 11px;
   }
 
   .card-gift .free {
     margin-top: 2px;
-    font-size: 16px;
+    font-size: 18px;
   }
 
   .compare {
@@ -1419,14 +1419,14 @@ button {
 
   .bottom-offer h2 {
     margin-bottom: 11px;
-    font-size: 20px;
+    font-size: 21px;
   }
 
   .bottom-offer__cta {
     min-width: 200px;
     height: 40px;
     gap: 7px;
-    font-size: 15px;
+    font-size: 16px;
   }
 
   .bottom-offer__cta span {
@@ -1445,15 +1445,15 @@ button {
   }
 
   .bottom-offer__trust strong {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .bottom-offer__trust span {
-    font-size: 8px;
+    font-size: 9px;
   }
 
   .bottom-offer__link {
-    font-size: 13px;
+    font-size: 14px;
   }
 
   .footer-deco {

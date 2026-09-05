@@ -1,9 +1,7 @@
 @import url("https://fonts.cdnfonts.com/css/general-sans");
 @import url("https://fonts.cdnfonts.com/css/switzer");
 
-/* =========================================================
-   Panda Drum — landing page styles
-   ========================================================= */
+/* variables */
 
 :root {
   --green-900: #2f682d;
@@ -102,9 +100,7 @@ button {
   border: none;
 }
 
-/* ---------------------------------------------------------
-   Top bars
-   --------------------------------------------------------- */
+/* top bars */
 
 .announce-bar {
   background: var(--green-900);
@@ -175,9 +171,7 @@ button {
   text-transform: uppercase;
 }
 
-/* ---------------------------------------------------------
-   Article header
-   --------------------------------------------------------- */
+/* article-headings */
 
 .article-header {
   padding: 36px 27px;
@@ -241,9 +235,7 @@ button {
   object-fit: cover;
 }
 
-/* ---------------------------------------------------------
-   Press logos strip
-   --------------------------------------------------------- */
+/* press strip */
 
 .press-strip {
   background: var(--green-100);
@@ -267,9 +259,7 @@ button {
   object-fit: contain;
 }
 
-/* ---------------------------------------------------------
-   Reasons list
-   --------------------------------------------------------- */
+/* reason list */
 
 .reasons {
   padding: 40px 0 10px;
@@ -363,9 +353,7 @@ button {
   color: var(--green-600);
 }
 
-/* ---------------------------------------------------------
-   Offer box
-   --------------------------------------------------------- */
+/* offer box */
 
 .offer {
   background: var(--green-100);
@@ -520,9 +508,7 @@ button {
   height: auto;
 }
 
-/* ---------------------------------------------------------
-   Free gifts grid
-   --------------------------------------------------------- */
+/* free gift card */
 
 .gifts {
   max-width: 800px;
@@ -618,9 +604,7 @@ button {
   color: #1c5d2d;
 }
 
-/* ---------------------------------------------------------
-   Comparison table
-   --------------------------------------------------------- */
+/* table section */
 
 .compare {
   background: var(--cream);
@@ -815,9 +799,7 @@ button {
   background: #000;
 }
 
-/* ---------------------------------------------------------
-   Final call to action
-   --------------------------------------------------------- */
+/* final call */
 
 .bottom-offer {
   /* background: var(--green-100); */
@@ -950,9 +932,7 @@ button {
   text-underline-offset: 3px;
 }
 
-/* ---------------------------------------------------------
-   Footer decoration
-   --------------------------------------------------------- */
+/* footer */
 
 .footer-deco {
   padding-top: 0;
@@ -964,9 +944,8 @@ button {
   height: auto;
 }
 
-/* ---------------------------------------------------------
-   Responsive
-   --------------------------------------------------------- */
+
+/* all mobile views */
 
 @media (max-width: 980px) {
   .article-header h1 {
@@ -1080,9 +1059,7 @@ button {
   }
 }
 
-/* ---------------------------------------------------------
-   Mobile layout
-   --------------------------------------------------------- */
+/* mobile layouts */
 
 @media (max-width: 600px) {
   html,
